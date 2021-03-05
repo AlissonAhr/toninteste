@@ -1,0 +1,453 @@
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '3852.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at Socket.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:209:9)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '3852.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '457.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '457.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '1149.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '1149.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '8764.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:233:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '8764.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '7456.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '7456.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '5668.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '5668.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '7978.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '7978.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '2643.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '2643.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '7223.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '7223.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '2714.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '2714.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '7812.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '7812.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '9510.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at Socket.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:209:9)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '9510.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, unlink '8347.ogg'
+    at Object.unlinkSync (fs.js:1210:3)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/index.js:320:10
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/async/dist/async.js:473:16
+    at replenish (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/async/dist/async.js:1006:25)
+    at WriteStream.iterateeCallback (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/async/dist/async.js:995:17)
+    at WriteStream.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/async/dist/async.js:969:16)
+    at WriteStream.emit (events.js:315:20)
+    at finish (internal/streams/writable.js:657:10)
+    at finishMaybe (internal/streams/writable.js:644:9)
+    at internal/streams/writable.js:617:7
+    at WriteStream._final (internal/fs/streams.js:355:3)
+    at callFinal (internal/streams/writable.js:610:10)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: -2,
+  syscall: 'unlink',
+  code: 'ENOENT',
+  path: '8347.ogg'
+}
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: ENOENT: no such file or directory, open '1319.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/index.js:258:37)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at ChildProcess.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/fluent-ffmpeg/lib/processor.js:184:11)
+    at ChildProcess.emit (events.js:315:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '1319.webp'
+}
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, unlink '8701.ogg'
+    at Object.unlinkSync (fs.js:1210:3)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/index.js:320:10
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/async/dist/async.js:473:16
+    at replenish (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/async/dist/async.js:1006:25)
+    at WriteStream.iterateeCallback (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/async/dist/async.js:995:17)
+    at WriteStream.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/async/dist/async.js:969:16)
+    at WriteStream.emit (events.js:315:20)
+    at finish (internal/streams/writable.js:657:10)
+    at finishMaybe (internal/streams/writable.js:644:9)
+    at internal/streams/writable.js:617:7
+    at WriteStream._final (internal/fs/streams.js:355:3)
+    at callFinal (internal/streams/writable.js:610:10)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: -2,
+  syscall: 'unlink',
+  code: 'ENOENT',
+  path: '8701.ogg'
+}
+- Connecting...
+- Connected
+Error: Invalid block size
+    at new GifReader (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/omggif/omggif.js:489:41)
+    at Object.image/gif (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/gif/dist/index.js:25:20)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+BaileysError: Not expecting a response
+    at onErr (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:186:56)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:181:82
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:268:21)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7) {
+  status: 422,
+  context: { status: 422 }
+}
+BaileysError: Not expecting a response
+    at onErr (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:186:56)
+    at /data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:181:82
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:268:21)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7) {
+  status: 422,
+  context: { status: 422 }
+}
+BaileysError: Unexpected status in 'action': Bad Request(400)
+    at WAConnection.query (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:233:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.setQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:202:24)
+    at async WAConnection.groupQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/8.Groups.js:153:24) {
+  status: 400,
+  context: {
+    query: [ 'action', [Object], [Array] ],
+    message: 'Bad Request',
+    status: 400
+  }
+}
+BaileysError: Unexpected status in 'action': Bad Request(400)
+    at WAConnection.query (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:233:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.setQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:202:24)
+    at async WAConnection.groupQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/8.Groups.js:153:24) {
+  status: 400,
+  context: {
+    query: [ 'action', [Object], [Array] ],
+    message: 'Bad Request',
+    status: 400
+  }
+}
+BaileysError: Unexpected status in 'action': Bad Request(400)
+    at WAConnection.query (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:233:27)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.setQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:202:24)
+    at async WAConnection.groupQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/8.Groups.js:153:24) {
+  status: 400,
+  context: {
+    query: [ 'action', [Object], [Array] ],
+    message: 'Bad Request',
+    status: 400
+  }
+}
+BaileysError: Unexpected status in 'action': Bad Request(400)
+    at WAConnection.query (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:233:27)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.setQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:202:24)
+    at async WAConnection.groupQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/8.Groups.js:153:24) {
+  status: 400,
+  context: {
+    query: [ 'action', [Object], [Array] ],
+    message: 'Bad Request',
+    status: 400
+  }
+}
+BaileysError: Unexpected status in 'action': Bad Request(400)
+    at WAConnection.query (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:233:27)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.setQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:202:24)
+    at async WAConnection.groupQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/8.Groups.js:153:24) {
+  status: 400,
+  context: {
+    query: [ 'action', [Object], [Array] ],
+    message: 'Bad Request',
+    status: 400
+  }
+}
+BaileysError: Unexpected status in 'action': Forbidden(403)
+    at WAConnection.query (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:233:27)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.setQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:202:24)
+    at async WAConnection.groupQuery (/data/data/com.termux/files/home/darkbot/Dark-main/node_modules/@adiwajshing/baileys/lib/WAConnection/8.Groups.js:153:24) {
+  status: 403,
+  context: {
+    query: [ 'action', [Object], [Array] ],
+    message: 'Forbidden',
+    status: 403
+  }
+}
